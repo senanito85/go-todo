@@ -83,4 +83,4 @@ MIT
 
 ## Author
 
-Yasuhiro Matsumoto (a.k.a mattn)
+Sanan Ibrahimov
